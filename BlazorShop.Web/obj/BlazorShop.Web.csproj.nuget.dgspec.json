@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dadan\\source\\repos\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj": {}
+    "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShop.Web\\BlazorShop.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dadan\\source\\repos\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj": {
+    "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShop.Models\\BlazorShop.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dadan\\source\\repos\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj",
-        "projectName": "BlazorShop.Web",
-        "projectPath": "C:\\Users\\dadan\\source\\repos\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj",
-        "packagesPath": "C:\\Users\\dadan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dadan\\source\\repos\\BlazorShop\\BlazorShop.Web\\obj\\",
+        "projectUniqueName": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShop.Models\\BlazorShop.Models.csproj",
+        "projectName": "BlazorShop.Models",
+        "projectPath": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShop.Models\\BlazorShop.Models.csproj",
+        "packagesPath": "C:\\Users\\daguimaraes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShop.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dadan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\daguimaraes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -23,12 +27,83 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://nuget.tjsp.jus.br:8080/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShop.Web\\BlazorShop.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShop.Web\\BlazorShop.Web.csproj",
+        "projectName": "BlazorShop.Web",
+        "projectPath": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShop.Web\\BlazorShop.Web.csproj",
+        "packagesPath": "C:\\Users\\daguimaraes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShop.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daguimaraes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://nuget.tjsp.jus.br:8080/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShop.Models\\BlazorShop.Models.csproj": {
+                "projectPath": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShop.Models\\BlazorShop.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

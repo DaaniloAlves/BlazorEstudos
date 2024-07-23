@@ -1,30 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dadan\\source\\repos\\BlazorShop\\",
+  "WorkspaceRootPath": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\dadan\\source\\repos\\blazorshop\\blazorshopapi\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|solutionrelative:blazorshopapi\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso blazor\\blazorestudos\\blazorshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|solutionrelative:blazorshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\dadan\\source\\repos\\blazorshop\\blazorshopapi\\entities\\carrinhoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso blazor\\blazorestudos\\blazorshopapi\\repositorios\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|solutionrelative:blazorshopapi\\repositorios\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso blazor\\blazorestudos\\blazorshopapi\\contexto\\bancocontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|solutionrelative:blazorshopapi\\contexto\\bancocontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso blazor\\blazorestudos\\blazorshopapi\\mappings\\mappingdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|solutionrelative:blazorshopapi\\mappings\\mappingdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso blazor\\blazorestudos\\blazorshopapi\\blazorshopapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|solutionrelative:blazorshopapi\\blazorshopapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso blazor\\blazorestudos\\blazorshopapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|solutionrelative:blazorshopapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9179F8E4-83B1-4932-80FD-ECF6AB610434}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso blazor\\blazorestudos\\blazorshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9179F8E4-83B1-4932-80FD-ECF6AB610434}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso blazor\\blazorestudos\\blazorshopapi\\entities\\carrinhoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|solutionrelative:blazorshopapi\\entities\\carrinhoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\dadan\\source\\repos\\blazorshop\\blazorshopapi\\entities\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso blazor\\blazorestudos\\blazorshopapi\\entities\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|solutionrelative:blazorshopapi\\entities\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\dadan\\source\\repos\\blazorshop\\blazorshopapi\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|solutionrelative:blazorshopapi\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\dadan\\source\\repos\\blazorshop\\blazorshopapi\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso blazor\\blazorestudos\\blazorshopapi\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|solutionrelative:blazorshopapi\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{153CAB06-1614-4D5F-A03B-03793A70CB12}|BlazorShop.Models\\BlazorShop.Models.csproj|c:\\users\\dadan\\source\\repos\\blazorshop\\blazorshop.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{153CAB06-1614-4D5F-A03B-03793A70CB12}|BlazorShop.Models\\BlazorShop.Models.csproj|solutionrelative:blazorshop.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso blazor\\blazorestudos\\blazorshopapi\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|solutionrelative:blazorshopapi\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso blazor\\blazorestudos\\blazorshopapi\\repositorios\\iprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|solutionrelative:blazorshopapi\\repositorios\\iprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso blazor\\blazorestudos\\blazorshopapi\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|solutionrelative:blazorshopapi\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153CAB06-1614-4D5F-A03B-03793A70CB12}|BlazorShop.Models\\BlazorShop.Models.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso blazor\\blazorestudos\\blazorshop.models\\dtos\\carrinhoitematualizaquantidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153CAB06-1614-4D5F-A03B-03793A70CB12}|BlazorShop.Models\\BlazorShop.Models.csproj|solutionrelative:blazorshop.models\\dtos\\carrinhoitematualizaquantidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153CAB06-1614-4D5F-A03B-03793A70CB12}|BlazorShop.Models\\BlazorShop.Models.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso blazor\\blazorestudos\\blazorshop.models\\dtos\\carrinhoitemadicionadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153CAB06-1614-4D5F-A03B-03793A70CB12}|BlazorShop.Models\\BlazorShop.Models.csproj|solutionrelative:blazorshop.models\\dtos\\carrinhoitemadicionadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso blazor\\blazorestudos\\blazorshopapi\\migrations\\20240722154644_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26F2C94-2064-43EF-AB8C-BC721065D5DC}|BlazorShopAPI\\BlazorShopAPI.csproj|solutionrelative:blazorshopapi\\migrations\\20240722154644_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +74,203 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\BlazorShop\\BlazorShopAPI\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "BlazorShopAPI\\Entities\\Usuario.cs",
-              "ToolTip": "C:\\Users\\dadan\\source\\repos\\BlazorShop\\BlazorShopAPI\\Entities\\Usuario.cs",
-              "RelativeToolTip": "BlazorShopAPI\\Entities\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T02:14:13.424Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "BlazorShopAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\BlazorShopAPI.csproj",
+              "RelativeDocumentMoniker": "BlazorShopAPI\\BlazorShopAPI.csproj",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\BlazorShopAPI.csproj",
+              "RelativeToolTip": "BlazorShopAPI\\BlazorShopAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T14:24:37.453Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CarrinhoItem.cs",
-              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\BlazorShop\\BlazorShopAPI\\Entities\\CarrinhoItem.cs",
-              "RelativeDocumentMoniker": "BlazorShopAPI\\Entities\\CarrinhoItem.cs",
-              "ToolTip": "C:\\Users\\dadan\\source\\repos\\BlazorShop\\BlazorShopAPI\\Entities\\CarrinhoItem.cs",
-              "RelativeToolTip": "BlazorShopAPI\\Entities\\CarrinhoItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Title": "ProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Repositorios\\ProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "BlazorShopAPI\\Repositorios\\ProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Repositorios\\ProdutoRepositorio.cs",
+              "RelativeToolTip": "BlazorShopAPI\\Repositorios\\ProdutoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T02:12:48.927Z",
+              "WhenOpened": "2024-07-22T20:57:45.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Carrinho.cs",
-              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\BlazorShop\\BlazorShopAPI\\Entities\\Carrinho.cs",
-              "RelativeDocumentMoniker": "BlazorShopAPI\\Entities\\Carrinho.cs",
-              "ToolTip": "C:\\Users\\dadan\\source\\repos\\BlazorShop\\BlazorShopAPI\\Entities\\Carrinho.cs",
-              "RelativeToolTip": "BlazorShopAPI\\Entities\\Carrinho.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "DocumentIndex": 11,
+              "Title": "IProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Repositorios\\IProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "BlazorShopAPI\\Repositorios\\IProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Repositorios\\IProdutoRepositorio.cs",
+              "RelativeToolTip": "BlazorShopAPI\\Repositorios\\IProdutoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T02:12:22.332Z",
+              "WhenOpened": "2024-07-22T17:50:26.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarrinhoItemAdicionaDto.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShop.Models\\DTOs\\CarrinhoItemAdicionaDto.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Models\\DTOs\\CarrinhoItemAdicionaDto.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShop.Models\\DTOs\\CarrinhoItemAdicionaDto.cs",
+              "RelativeToolTip": "BlazorShop.Models\\DTOs\\CarrinhoItemAdicionaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T17:44:38.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarrinhoItem.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Entities\\CarrinhoItem.cs",
+              "RelativeDocumentMoniker": "BlazorShopAPI\\Entities\\CarrinhoItem.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Entities\\CarrinhoItem.cs",
+              "RelativeToolTip": "BlazorShopAPI\\Entities\\CarrinhoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:12:48.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Entities\\Categoria.cs",
+              "RelativeDocumentMoniker": "BlazorShopAPI\\Entities\\Categoria.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Entities\\Categoria.cs",
+              "RelativeToolTip": "BlazorShopAPI\\Entities\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:11:21.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "BlazorShopAPI\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Entities\\Produto.cs",
+              "RelativeToolTip": "BlazorShopAPI\\Entities\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T00:37:49.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorShopAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Program.cs",
+              "RelativeToolTip": "BlazorShopAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:31:49.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\BlazorShop\\BlazorShopAPI\\Entities\\Categoria.cs",
-              "RelativeDocumentMoniker": "BlazorShopAPI\\Entities\\Categoria.cs",
-              "ToolTip": "C:\\Users\\dadan\\source\\repos\\BlazorShop\\BlazorShopAPI\\Entities\\Categoria.cs",
-              "RelativeToolTip": "BlazorShopAPI\\Entities\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
+              "Title": "MappingDtos.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Mappings\\MappingDtos.cs",
+              "RelativeDocumentMoniker": "BlazorShopAPI\\Mappings\\MappingDtos.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Mappings\\MappingDtos.cs",
+              "RelativeToolTip": "BlazorShopAPI\\Mappings\\MappingDtos.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwEsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T02:11:21.329Z",
+              "WhenOpened": "2024-07-23T15:02:29.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\BlazorShop\\BlazorShopAPI\\Entities\\Produto.cs",
-              "RelativeDocumentMoniker": "BlazorShopAPI\\Entities\\Produto.cs",
-              "ToolTip": "C:\\Users\\dadan\\source\\repos\\BlazorShop\\BlazorShopAPI\\Entities\\Produto.cs",
-              "RelativeToolTip": "BlazorShopAPI\\Entities\\Produto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA9AAAA",
+              "DocumentIndex": 2,
+              "Title": "BancoContexto.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Contexto\\BancoContexto.cs",
+              "RelativeDocumentMoniker": "BlazorShopAPI\\Contexto\\BancoContexto.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Contexto\\BancoContexto.cs",
+              "RelativeToolTip": "BlazorShopAPI\\Contexto\\BancoContexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T00:37:49.301Z",
+              "WhenOpened": "2024-07-22T14:52:10.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\BlazorShop\\BlazorShop.Models\\Class1.cs",
-              "RelativeDocumentMoniker": "BlazorShop.Models\\Class1.cs",
-              "ToolTip": "C:\\Users\\dadan\\source\\repos\\BlazorShop\\BlazorShop.Models\\Class1.cs",
-              "RelativeToolTip": "BlazorShop.Models\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "BlazorShopAPI\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "BlazorShopAPI\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwDgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T00:36:31.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T17:35:03.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShop.Web\\Program.cs",
+              "RelativeToolTip": "BlazorShop.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:58:09.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "BlazorShopAPI\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Entities\\Usuario.cs",
+              "RelativeToolTip": "BlazorShopAPI\\Entities\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:14:13.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Carrinho.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Entities\\Carrinho.cs",
+              "RelativeDocumentMoniker": "BlazorShopAPI\\Entities\\Carrinho.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Entities\\Carrinho.cs",
+              "RelativeToolTip": "BlazorShopAPI\\Entities\\Carrinho.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:12:22.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarrinhoItemAtualizaQuantidade.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShop.Models\\DTOs\\CarrinhoItemAtualizaQuantidade.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Models\\DTOs\\CarrinhoItemAtualizaQuantidade.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShop.Models\\DTOs\\CarrinhoItemAtualizaQuantidade.cs",
+              "RelativeToolTip": "BlazorShop.Models\\DTOs\\CarrinhoItemAtualizaQuantidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T17:45:46.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240722154644_inicial.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Migrations\\20240722154644_inicial.cs",
+              "RelativeDocumentMoniker": "BlazorShopAPI\\Migrations\\20240722154644_inicial.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso blazor\\BlazorEstudos\\BlazorShopAPI\\Migrations\\20240722154644_inicial.cs",
+              "RelativeToolTip": "BlazorShopAPI\\Migrations\\20240722154644_inicial.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwC0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:14:59.751Z"
             }
           ]
         }
